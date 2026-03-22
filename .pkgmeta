@@ -1,0 +1,9 @@
+package-as: SaveMyItems
+
+ignore:
+  - .github
+  - DESCRIPTION.md
+  - LICENSE
+  - logo.svg
+  - logo.png
+  - .gitignore
