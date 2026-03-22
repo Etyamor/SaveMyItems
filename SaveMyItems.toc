@@ -1,0 +1,11 @@
+## Interface: 20502
+## Title: Save My Items
+## Notes: Save items and view their tooltips in a browsable list.
+## Author: Etyamor
+## Version: 1.0.0
+## SavedVariables: SaveMyItemsDB
+## OptionalDeps: Auctionator
+
+Core.lua
+UI.lua
+Commands.lua
